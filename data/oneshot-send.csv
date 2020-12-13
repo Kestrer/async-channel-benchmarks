@@ -1,0 +1,19 @@
+channel,time
+async-channel bounded(1),409.70678831114935
+async-channel bounded(2),490.0915990209525
+async-channel bounded(4),487.1888709837872
+async-channel bounded(8),489.89012399469283
+async-channel bounded(16),494.30601517638
+async-channel bounded(32),496.08901722384746
+async-channel bounded(64),498.56928246003145
+async-channel bounded(128),499.34935485877054
+async-channel unbounded,783.5745329324018
+flume bounded(1),538.095123070373
+flume bounded(2),543.026520411295
+flume bounded(4),537.8922783353995
+flume bounded(8),545.9640637796838
+flume bounded(16),538.0903791257851
+flume bounded(32),537.7350354826177
+flume bounded(64),540.9885364249701
+flume bounded(128),533.0974059843069
+flume unbounded,518.6212913688049

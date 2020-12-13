@@ -1,0 +1,17 @@
+[package]
+name = "async-channel-benchmarks"
+version = "0.0.0"
+authors = ["Koxiaet <koxiaet@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+async-channel = "1.5.1"
+event-listener = "2.5.1"
+flume = "0.10.0"
+futures-lite = "1.11.2"
+
+criterion = "0.3.3"
+
+[workspace]
+members = ["process"]
