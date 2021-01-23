@@ -1,7 +1,7 @@
 [package]
 name = "process"
 version = "0.1.0"
-authors = ["Koxiaet <koxiaet@gmail.com>"]
+authors = ["Kestrer <kestrer.dev@gmail.com>"]
 edition = "2018"
 
 [dependencies]
